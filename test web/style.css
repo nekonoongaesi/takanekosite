@@ -1,0 +1,65 @@
+header {
+    height:80px;
+    width:100%;
+    color:black;
+    background-color: white;
+}
+
+.logo {
+    padding-left: 400px;
+    float: left;
+}
+
+
+
+ul {
+    list-style: none;
+
+}
+
+
+.header-list li{
+    float: right;
+    padding-top: 20px;
+    padding-right: 400px;
+    color: blanchedalmond;
+    transition: background 1s;
+    background-color: white;
+    font-size: 20px;
+}
+
+.header-list:hover {
+    background-color: cornflowerblue;
+}
+
+.top-wrapper {
+    height: 550px;
+    width: 100%;
+    background-image: url(ヘッダー.jpeg);
+    background-size: cover;
+}
+
+.main {
+    text-align: center;
+}
+
+.writing {
+    height: 1200px;
+}
+
+.game {
+    width: 300px;
+    float: right;
+    padding-right: 500px;
+}
+
+.game2 {
+    width: 300px;
+    float: left;
+    padding-left: 500px;
+
+}
+
+.twitter-title {
+    font-family: 'Anton', sans-serif;
+}
