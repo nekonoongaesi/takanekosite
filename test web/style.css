@@ -50,13 +50,13 @@ ul {
 .game {
     width: 300px;
     float: right;
-    padding-right: 500px;
+    padding-right: 450px;
 }
 
 .game2 {
     width: 300px;
     float: left;
-    padding-left: 500px;
+    padding-left: 450px;
 
 }
 
